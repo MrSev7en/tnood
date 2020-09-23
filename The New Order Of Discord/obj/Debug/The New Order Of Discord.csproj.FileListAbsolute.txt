@@ -1,0 +1,7 @@
+E:\Microsoft Visual Studio Projects\The New Order Of Discord\The New Order Of Discord\bin\Debug\The New Order Of Discord.exe
+E:\Microsoft Visual Studio Projects\The New Order Of Discord\The New Order Of Discord\obj\Debug\The New Order Of Discord.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio Projects\The New Order Of Discord\The New Order Of Discord\obj\Debug\The_New_Order_Of_Discord.TNOOD.resources
+E:\Microsoft Visual Studio Projects\The New Order Of Discord\The New Order Of Discord\obj\Debug\The_New_Order_Of_Discord.Properties.Resources.resources
+E:\Microsoft Visual Studio Projects\The New Order Of Discord\The New Order Of Discord\obj\Debug\The New Order Of Discord.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio Projects\The New Order Of Discord\The New Order Of Discord\obj\Debug\The New Order Of Discord.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio Projects\The New Order Of Discord\The New Order Of Discord\obj\Debug\The New Order Of Discord.exe
