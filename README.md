@@ -21,7 +21,7 @@ The New order of Discord, or just TNOOD, was a program that works a flooder to d
 ```
 
 - Flood private user direct messages.
-User must be in same server of the bots, and with the dm (direct messages) unlocked.
+(User must be in same server of the bots, and with the dm (direct messages) unlocked)
 ```csharp
 /dm <user id> <message>
 ```
